@@ -1,0 +1,5 @@
+If you hate Microsoft DataGrid and you dont need, cant find or dont have $300 for other grid then you are gonna love this ;).
+This is an activex control made in vb to replace bug-plagued DataGrid that you got with vs6. It is pretty fast, supports many things that are left behind in  MS DataGrid and it is open-source (though not for proper distribution for now). Have a look at screenshots if there are some (psc might not allow me to upload them).
+There are some examples included on how to use the grid. It does not matter what drivers are used since this grid uses t-sql for reading/writing data. For now it does not support built-in editors, but that is to be added in next version. Just download the example and experiment a bit.
+If you need any help on using the control post comment here and I will be glad to help.
+This is first version, so please post any bugs you may find.
