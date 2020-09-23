@@ -1,0 +1,2 @@
+Welcome to WolfGrid demo
+This program is the first one to use this grid, it is badly translated so dont worry about some mistakes I could made, it is not ment to be in English anyway. Most grid features are used here, so you can learn how to make a better application without MS DataGrid, even without embedded editor. This database is used for some small comany focused on paper products production, program cannot be smaller than it is though I will add some more grid functions in order to reduce time needed to create such application.
